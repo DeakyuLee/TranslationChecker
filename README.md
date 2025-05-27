@@ -33,3 +33,7 @@ Create a file called `config.json` in the **same folder** as the binary:
   "output_file": "output.csv"
 }
 ```
+
+### 3. Run the binary
+
+`./translation_check`
