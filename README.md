@@ -1,4 +1,4 @@
-# 🈷️ Translation Language Checker
+# Translation Language Checker
 
 A standalone command-line tool that checks if your Android `strings.xml` file contains missing or untranslated (e.g., English) entries. It uses a lightweight [FastText](https://fasttext.cc/) model to detect language and outputs the results as a CSV.
 
