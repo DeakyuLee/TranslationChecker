@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv311/
+dist/
+build/
+*.spec
+*.ftz
