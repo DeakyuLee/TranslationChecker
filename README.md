@@ -34,6 +34,14 @@ Create a file called `config.json` in the **same folder** as the binary:
 }
 ```
 
-### 3. Run the binary
+### 3. Update permission
 
-`./translation_check`
+run `chmod +x translation_checker`
+
+### 4. Run the binary
+
+run `./translation_checker`
+
+### 5. (Optional) When running on mac
+
+run `xattr -d com.apple.quarantine translation_checker` to override Gatekeeper warning
