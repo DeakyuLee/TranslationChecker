@@ -45,3 +45,7 @@ run `./translation_checker`
 ### 5. (Optional) When running on mac
 
 run `xattr -d com.apple.quarantine translation_checker` to override Gatekeeper warning
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
